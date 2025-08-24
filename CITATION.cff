@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this book chapter, please cite it using the metadata from this file."
+type: book
+authors:
+  - family-names: "Varona-Fong"
+    given-names: "Humberto V."
+    email: hvinlay.varona@gmail.com
+    affiliation: "Hospital Psiquiatrico Provincial Docente Gustavo Machin"
+    orcid: https://orcid.org/0009-0007-0074-3719
+  - family-names: "Herold-Garcia"
+    given-names: "Silena"
+    email: silena.herold@gmail.com
+    affiliation: "Federal university of Pernambuco"
+    orcid: https://orcid.org/0000-0001-9238-3472
+  - family-names: "Varona-Gonzalez"
+    given-names: "Humberto L."
+    email: humberto.varona@gmail.com
+    affiliation: "Federal university of Pernambuco"
+    orcid: https://orcid.org/0000-0001-7405-4827
+title: "REDESCUBRE TU FOCO: Estrategias prácticas para potenciar tu productividad (Capítulo 1. Entendiendo el Enfoque y la Productividad)"
+version: 1.0
+doi: 10.5281/zenodo.16937358
+date-released: 2025-05-03
+abstract: "El Capítulo 1 aborda qué es realmente el enfoque, diferenciando entre atención (detectar estímulos relevantes), concentración (mantenerse en una tarea excluyendo distracciones) y foco sostenido (sostener ese esfuerzo por largos periodos). Explica, desde la neurociencia, cómo intervienen la corteza prefrontal —encargada de planificar y resistir impulsos— y la dopamina —que refuerza la motivación y el placer de la tarea—, y cómo los estímulos digitales actuales activan este mismo sistema, desviando la atención hacia recompensas inmediatas. Se expone que la dificultad para concentrarse hoy en día no es un defecto personal, sino una consecuencia del entorno moderno hiperestimulado. El capítulo también identifica a los principales enemigos del enfoque: la tecnología diseñada para captar atención, la multitarea (un mito de eficiencia que en realidad fatiga y ralentiza al cerebro) y la sobrecarga de información, que satura la memoria de trabajo y deteriora la toma de decisiones. A través de ejemplos y estudios científicos, se muestra cómo estas trampas reducen el rendimiento y generan estrés. Para cerrar, se propone un ejercicio de autoevaluación que permite medir el nivel actual de concentración e identificar los “ladrones de atención”, y se ofrece un mapa visual con los conceptos clave como guía inicial para entrenar el enfoque."
+keywords:
+  - "Enfoque"
+  - "Distracción"
+  - "Neurociencia"
+  - "Productividad"
+license: CC-BY-ND-NC
+repository-code: "https://doi.org/10.5281/zenodo.16937358"
+url: "https://doi.org/10.5281/zenodo.16937358"
