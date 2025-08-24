@@ -1,6 +1,8 @@
 # Título
 
-REDESCUBRE TU FOCO: Estrategias prácticas para potenciar tu productividad (Capítulo 1. Entendiendo el Enfoque y la Productividad)
+**REDESCUBRE TU FOCO: Estrategias prácticas para potenciar tu productividad**
+
+Capítulo 1. Entendiendo el Enfoque y la Productividad.
 
 ## Fecha de publicación
 
